@@ -1,0 +1,13 @@
+.Pagination{
+  position:absolute;
+  left:50%;
+  z-index:1000;
+  bottom:2px;
+}
+.pageButton{
+  color: #2980b9;
+  height: 30px;
+  background-color: #ecf0f1;
+  width: 30px;
+  padding:1px;
+}
