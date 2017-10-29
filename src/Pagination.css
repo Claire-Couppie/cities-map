@@ -10,4 +10,9 @@
   background-color: #ffffff;
   width: 30px;
   padding:1px;
+  border-color:#ecf0f1;
+}
+.pageButton:disabled{
+  color:#7f8c8d;
+  background-color:#ecf0f1
 }
